@@ -1,0 +1,3 @@
+#ENGLISH: for better understanding, open the index.js file.
+
+#PORTUGUÊS: para melhor interpretação, abra o index.js
