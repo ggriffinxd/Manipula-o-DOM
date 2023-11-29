@@ -1,6 +1,0 @@
-#ENGLISH: for better understanding, open the index.js file.
-
-#PORTUGUÊS: para melhor interpretação, abra o index.js
-
-
-Open the code: https://codepen.io/ggriffinxd/pen/OJdQxPq
